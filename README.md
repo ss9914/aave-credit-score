@@ -1,4 +1,4 @@
-# Aave V2 Wallet Credit Scoring
+# Wallet Credit Scoring
 
 ## Problem Statement
 Given 100K user-wallet transactions on Aave V2, the goal is to build a machine learning model that generates a **credit score from 0 to 1000** for each wallet based on historical behavior.
